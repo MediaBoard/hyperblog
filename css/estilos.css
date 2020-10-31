@@ -43,6 +43,8 @@ body
 }
 #post
 {
+    background: white;
+    color: #777;
     padding: 1em;
 }
 #footer
